@@ -2,3 +2,5 @@ streamlit
 openai
 python-dotenv
 langchain
+langchain_openai
+faiss-cpu
