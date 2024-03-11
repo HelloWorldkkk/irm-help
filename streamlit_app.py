@@ -3,7 +3,7 @@ import os
 # from dotenv import load_dotenv
 
 from langchain_community.embeddings import AzureOpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
+from langchain.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain_openai import AzureChatOpenAI
 
